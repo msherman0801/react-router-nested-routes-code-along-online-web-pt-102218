@@ -6,7 +6,7 @@ import MovieShow from './MovieShow';
 
 const MoviesPage = ({ match, movies }) => (
   <div>
-    <MoviesList movies={movies} />
+    <MoviesList movies={movies} /> 
   </div>;
 
 )
